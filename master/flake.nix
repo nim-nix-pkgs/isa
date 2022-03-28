@@ -11,6 +11,7 @@
   inputs.src-isa-master.ref   = "refs/heads/master";
   inputs.src-isa-master.owner = "nimscale";
   inputs.src-isa-master.repo  = "isa";
+  inputs.src-isa-master.dir   = "";
   inputs.src-isa-master.type  = "github";
   
   inputs."collections".owner = "nim-nix-pkgs";
