@@ -7,7 +7,7 @@
   "license": "Apache License 2.0",
   "web": "https://github.com/nimscale/isa",
   "refs": [
-    "fatal: unable to access 'https://github.com/nimscale/isa/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/nimscale/isa/': Failed to connect to github.com port 443 after 140269 ms: Connection timed out",
     ""
   ],
   "heads": []
